@@ -4,7 +4,7 @@
 		<modelVersion>4.0.0</modelVersion>
 
 		<groupId>com.adamtron</groupId>
-		<artifactId>vertx-demo-minimal</artifactId>
+		<artifactId>vertx-minimal-client-server</artifactId>
 		<version>0.0.1</version>
 		<packaging>jar</packaging>
 

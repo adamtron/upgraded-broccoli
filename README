@@ -6,4 +6,4 @@ mvn clean install
 
 and execute the fat jar with the provided application.conf:
 
-java -jar target/vertx-minimal-client-server-<version>-fat.jar -conf application.conf
+java -jar target/vertx-minimal-client-server-0.0.1-fat.jar -conf applicati
