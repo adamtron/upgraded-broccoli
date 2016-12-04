@@ -1,0 +1,9 @@
+A (very) minimal setup for Vert.x verticle deployment, with a simple HTTP server and client verticle deployed from a main Verticle.
+
+To run, run 
+
+mvn clean install 
+
+and execute the fat jar with the provided application.conf:
+
+java -jar target/vertx-minimal-client-server-<version>-fat.jar -conf application.conf
